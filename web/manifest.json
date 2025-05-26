@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "project_akhir",
     "short_name": "project_akhir",
+=======
+    "name": "healtyin",
+    "short_name": "healtyin",
+>>>>>>> 06b13d45b53c80c8d8735164562731ad32ee49e0
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

@@ -1,10 +1,18 @@
 # Project-level configuration.
 cmake_minimum_required(VERSION 3.14)
+<<<<<<< HEAD
 project(project_akhir LANGUAGES CXX)
 
 # The name of the executable created for the application. Change this to change
 # the on-disk name of your application.
 set(BINARY_NAME "project_akhir")
+=======
+project(healtyin LANGUAGES CXX)
+
+# The name of the executable created for the application. Change this to change
+# the on-disk name of your application.
+set(BINARY_NAME "healtyin")
+>>>>>>> 06b13d45b53c80c8d8735164562731ad32ee49e0
 
 # Explicitly opt in to modern CMake behaviors to avoid warnings with recent
 # versions of CMake.

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:project_akhir/Screen/introductionscreen.dart';
+import 'package:project_akhir/Pages/homepage.dart';
 
 class Introduction extends StatelessWidget {
   const Introduction({Key? key}) : super(key: key);
@@ -18,6 +18,27 @@ class Introduction extends StatelessWidget {
               image: AssetImage('WTH.png'), // Ganti dengan path gambar Anda
               width: 400,
               height: 300,
+            ),
+            Column(
+              children: const [
+                Text(
+                  'WELLCOME TO',
+                  style: TextStyle(
+                    fontSize: 24,
+                    fontWeight: FontWeight.bold,
+                    color: Colors.white,
+                    letterSpacing: 2.0,
+                  ),
+                ),
+                Text(
+                  'HEALTYIN',
+                  style: TextStyle(
+                    fontSize: 36,
+                    fontWeight: FontWeight.bold,
+                    color: Colors.white,
+                  ),
+                ),
+              ],
             ),
             const Spacer(),
             const Image(
@@ -55,9 +76,10 @@ class Introduction extends StatelessWidget {
                 width: double.infinity,
                 child: ElevatedButton(
                   onPressed: () {
+                    // Navigate to another screen (e.g., HomeScreen)
                     Navigator.pushReplacement(
                       context,
-                      MaterialPageRoute(builder: (context) => const IntroductionScreen()),
+                      MaterialPageRoute(builder: (context) => const Home()),
                     );
                   },
                   style: ElevatedButton.styleFrom(

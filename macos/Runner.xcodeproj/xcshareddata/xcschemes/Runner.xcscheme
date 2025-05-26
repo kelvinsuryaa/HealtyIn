@@ -15,7 +15,11 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
                BuildableName = "project_akhir.app"
+=======
+               BuildableName = "healtyin.app"
+>>>>>>> 06b13d45b53c80c8d8735164562731ad32ee49e0
                BlueprintName = "Runner"
                ReferencedContainer = "container:Runner.xcodeproj">
             </BuildableReference>
@@ -31,7 +35,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "project_akhir.app"
+=======
+            BuildableName = "healtyin.app"
+>>>>>>> 06b13d45b53c80c8d8735164562731ad32ee49e0
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
@@ -65,7 +73,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "project_akhir.app"
+=======
+            BuildableName = "healtyin.app"
+>>>>>>> 06b13d45b53c80c8d8735164562731ad32ee49e0
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
@@ -82,7 +94,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "project_akhir.app"
+=======
+            BuildableName = "healtyin.app"
+>>>>>>> 06b13d45b53c80c8d8735164562731ad32ee49e0
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 name: project_akhir
+=======
+name: healtyin
+>>>>>>> 06b13d45b53c80c8d8735164562731ad32ee49e0
 description: "A new Flutter project."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
@@ -59,7 +63,11 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
+<<<<<<< HEAD
   # assets:
+=======
+   # assets:
+>>>>>>> 06b13d45b53c80c8d8735164562731ad32ee49e0
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
 
