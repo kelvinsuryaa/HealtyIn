@@ -1,9 +1,7 @@
-<<<<<<< HEAD
-# project_akhir
-=======
-# healtyin
->>>>>>> 06b13d45b53c80c8d8735164562731ad32ee49e0
-
+Tedi Syah Khoirudin/33
+Pragaza Aji Narpati/27
+Kelvin Surya Dinata/18
+Raymoon Nur Firdaus/28
 A new Flutter project.
 
 ## Getting Started
